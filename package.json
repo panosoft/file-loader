@@ -1,0 +1,31 @@
+{
+  "name": "file-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.3.4",
+    "nock": "~2.17.0"
+  },
+  "dependencies": {
+    "@panosoft/ramda-utils": "^0.2.1",
+    "@panosoft/require-string": "^0.1.4",
+    "co": "^4.6.0",
+    "got": "^5.2.0",
+    "is_js": "^0.7.4",
+    "lru-cache": "^3.2.0",
+    "mz": "^2.1.0",
+    "ramda": "^0.18.0",
+    "validator": "^4.4.0"
+  }
+}
