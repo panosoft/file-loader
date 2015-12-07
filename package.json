@@ -1,7 +1,7 @@
 {
   "name": "@panosoft/file-loader",
   "version": "0.1.0",
-  "description": "",
+  "description": "Load file path values within an object and cache requests.",
   "main": "lib/index.js",
   "directories": {
     "test": "test"

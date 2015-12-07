@@ -76,7 +76,7 @@ co(function * () {
   console.log(loadedObj);
   /**
       {
-        file: 'utf8 file contents ...',
+        file: 'utf8 encoded file contents ...',
         module: module.exports,
         string: 'a',
         fn: () => {}
